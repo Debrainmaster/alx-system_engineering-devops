@@ -1,4 +1,5 @@
 #!/bin/bash
-export BEST="school"
+export BEST= "school"
+
 
 
