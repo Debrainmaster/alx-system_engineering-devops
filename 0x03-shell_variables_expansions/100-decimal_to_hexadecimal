@@ -1,2 +1,3 @@
 #!/bin/bash
-printf '%xln' $DECIMAL
+printf'%xln'$DECIMAL
+
